@@ -1,0 +1,5 @@
+git add -A  把项目从工作区放到暂存区  可以单独提交一个文件git  add 文件名
+git commit -m "first commit"   把暂存区的放到本地仓库 first commit 方便版本的控制
+git  reset --hard 版本号  回到以前版本
+git log   查看开发日志
+clip < ~/.ssh/id_rsa.pub 
